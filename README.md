@@ -1,6 +1,6 @@
 # class exercices arcpy
 
-This is a class exercise of the Seminar Geodata Analysis and Modelling, Spring Semsester 2018, University of Bern
+This is a class exercise of the Seminar Geodata Analysis and Modelling, Spring Semester 2018, University of Bern
 
 By Andreas Zischg, Pascal Horton and Jorge Ramirez
 
